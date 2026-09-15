@@ -10,10 +10,10 @@ BS Computer Science (BSCS), Lahore Garrison University
 https://github.com/hanzla-codes/portfolio
 
 **Live Vercel Deployment:**  
-[ADD VERCEL URL]
+https://portfolio-six-swart-67.vercel.app/
 
 **LinkedIn Post:**  
-[ADD LINKEDIN POST URL]
+https://lnkd.in/p/dhEdrw_N
 
 ## Final Check
 
